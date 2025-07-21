@@ -18,3 +18,21 @@ A simple and responsive To-Do List web app built using **HTML**, **CSS**, and **
 - **JavaScript** – Functionality and logic  
 - **localStorage** – Data persistence  
 
+## Folder Structure
+- index.html
+- style.css
+- script.js
+- README.md
+
+## What I Learned
+
+- DOM selection and event handling  
+- Managing client-side data using localStorage  
+- Writing modular and maintainable front-end code  
+- Improving UI/UX using responsive CSS
+
+## Contact
+
+**Tarunpreet Kaur**  
+📧 tarunpreet2809@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tarunpreet--kaur/) | [GitHub](https://github.com/tarunpreetk009)
