@@ -13,8 +13,8 @@ A simple and responsive To-Do List web app built using **HTML**, **CSS**, and **
 
 ## Technologies Used
 
-- **HTML5** – Structure and layout  
-- **CSS3** – Styling and responsiveness  
-- **JavaScript (ES6)** – Functionality and logic  
+- **HTML** – Structure and layout  
+- **CSS** – Styling and responsiveness  
+- **JavaScript** – Functionality and logic  
 - **localStorage** – Data persistence  
 
